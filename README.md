@@ -14,6 +14,7 @@ navegar dentro de um aplicativo especificando um destino explícito e,
 permitindo que o Android atenda ao Intent usando os aplicativos e recursos presentes no dispositivo.
 
 # O que eu aprendi?
+
 * toString
 * getString
 * Ciclo de vida de uma Activity
