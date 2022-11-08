@@ -1,26 +1,32 @@
-# Words App
+# Word App
 
-This folder contains the source code for the Words app codelab.
+Criei esse aplicativo junto ao codLab da Google para aperfeiçoar meus conhecimentos.
 
 
-# Introduction
-Words app allows you to select a letter and use Intents to navigate to an Activity that
-presents a number of words starting with that letter. Each word can be looked up via a web search.
+💻 Introdução
+O aplicativo Words permite que você selecione uma letra e use Intents para navegar até uma Activity que apresenta um número de palavras começando com essa letra. Cada palavra pode ser pesquisada através de uma pesquisa na web.
 
-Words app contains a scrollable list of 26 letters A to Z in a RecyclerView. The orientation
-of the RecyclerView can be changed between a vertical list or a grid of items.
+O aplicativo Words contém uma lista rolável de 26 letras de A a Z em um RecyclerView. A orientação do RecyclerView pode ser alterada entre uma lista vertical ou uma grade de itens.
 
-The app demonstrates the use of Intents in two ways:
-* to navigate inside an app by specifying an explicit destination, and,
-* allowing Android to service the Intent using the apps and resources present on the device.
+O aplicativo demonstra o uso de Intents de duas maneiras:
 
-# Pre-requisites
-* Experience with Kotlin syntax.
-* Able to create an Activity.
-* Able to create a RecyclerView and supply it with data.
+navegar dentro de um aplicativo especificando um destino explícito e,
+permitindo que o Android atenda ao Intent usando os aplicativos e recursos presentes no dispositivo.
 
-# Getting Started
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+# O que eu aprendi?
+* toString
+* getString
+* Ciclo de vida de uma Activity
+* Aprendi sobre Intent explícitas e implícitas 
+* putExtra
+* Transmissão de dados entre as Activitys 
+* Fluxo de controle Koltin
+
+📷 Meu projeto 
+
+![image](https://user-images.githubusercontent.com/39010493/200603174-274973c6-ad9d-4328-86f8-c5f06e50e667.png)
+![image](https://user-images.githubusercontent.com/39010493/200603217-a482b48b-67c2-487f-a655-c59a7671d74f.png)
+![image](https://user-images.githubusercontent.com/39010493/200603239-07c5116f-b985-45ce-96f5-31802f0bd46e.png)
+![image](https://user-images.githubusercontent.com/39010493/200603253-cead3123-6d00-49f4-8d94-db1ee232129e.png)
+
+
